@@ -1,0 +1,11 @@
+E:\cdido0923\Tests\bin\Debug\Tests.exe
+E:\cdido0923\Tests\bin\Debug\Tests.pdb
+E:\cdido0923\Tests\bin\Debug\nunit.framework.dll
+E:\cdido0923\Tests\bin\Debug\ObjectListView.dll
+E:\cdido0923\Tests\bin\Debug\ObjectListView.pdb
+E:\cdido0923\Tests\bin\Debug\nunit.framework.xml
+E:\cdido0923\Tests\obj\Debug\Tests2012.csprojResolveAssemblyReference.cache
+E:\cdido0923\Tests\obj\Debug\BrightIdeasSoftware.Tests.MainForm.resources
+E:\cdido0923\Tests\obj\Debug\Tests2012.csproj.GenerateResource.Cache
+E:\cdido0923\Tests\obj\Debug\Tests.exe
+E:\cdido0923\Tests\obj\Debug\Tests.pdb

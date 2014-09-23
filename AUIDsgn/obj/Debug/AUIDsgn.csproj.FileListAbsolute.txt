@@ -1,0 +1,15 @@
+e:\Repos\cdido0923\AUIDsgn\bin\Debug\AUIDsgn.exe.config
+e:\Repos\cdido0923\AUIDsgn\bin\Debug\AUIDsgn.exe
+e:\Repos\cdido0923\AUIDsgn\bin\Debug\AUIDsgn.pdb
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.csprojResolveAssemblyReference.cache
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.Ctnl.UIClzListControl.resources
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.Ctnl.UIMenuListControl.resources
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.Ctnl.UITemplateNServiceListControl.resources
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.UIDsgnMainForm.resources
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.Properties.Resources.resources
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.csproj.GenerateResource.Cache
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.exe
+e:\Repos\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.pdb
+E:\cdido0923\AUIDsgn\bin\Debug\AUIDsgn.exe.config
+E:\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.exe
+E:\cdido0923\AUIDsgn\obj\Debug\AUIDsgn.pdb

@@ -1,0 +1,12 @@
+e:\Repos\cdido0923\ALoginNRegister\bin\Debug\ALoginNRegister.exe.config
+e:\Repos\cdido0923\ALoginNRegister\bin\Debug\ALoginNRegister.exe
+e:\Repos\cdido0923\ALoginNRegister\bin\Debug\ALoginNRegister.pdb
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.csprojResolveAssemblyReference.cache
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.LoginControl.resources
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.LoginForm.resources
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.Properties.Resources.resources
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.RegisterControl.resources
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.RegisterForm.resources
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.csproj.GenerateResource.Cache
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.exe
+e:\Repos\cdido0923\ALoginNRegister\obj\Debug\ALoginNRegister.pdb

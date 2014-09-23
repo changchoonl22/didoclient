@@ -1,0 +1,15 @@
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.csprojResolveAssemblyReference.cache
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.MainForm.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\TestApp.Properties.Resources.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample30.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample31.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample32.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample33.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample34.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample35.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample36.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample37.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample38.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.frmSample39.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.Samples.frmSample40.resources
+E:\cdido0923\DevAge.TestApp\obj\Debug\DevAge.TestApp.csproj.GenerateResource.Cache

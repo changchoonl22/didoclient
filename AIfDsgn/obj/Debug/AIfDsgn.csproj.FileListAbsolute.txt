@@ -1,0 +1,12 @@
+e:\Repos\cdido0923\AIfDsgn\bin\Debug\AIfDsgn.exe.config
+e:\Repos\cdido0923\AIfDsgn\bin\Debug\AIfDsgn.exe
+e:\Repos\cdido0923\AIfDsgn\bin\Debug\AIfDsgn.pdb
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.csprojResolveAssemblyReference.cache
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.Ctnl.IfItemDetailControl.resources
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.Ctnl.IfItemListControl.resources
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.Ctnl.IfSystemListControl.resources
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.IfDsgnMainForm.resources
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.Properties.Resources.resources
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.csproj.GenerateResource.Cache
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.exe
+e:\Repos\cdido0923\AIfDsgn\obj\Debug\AIfDsgn.pdb

@@ -1,0 +1,10 @@
+e:\Repos\cdido0923\AReqNTrace\bin\Debug\AReqNTrace.exe.config
+e:\Repos\cdido0923\AReqNTrace\bin\Debug\AReqNTrace.exe
+e:\Repos\cdido0923\AReqNTrace\bin\Debug\AReqNTrace.pdb
+e:\Repos\cdido0923\AReqNTrace\obj\Debug\AReqNTrace.Ctnl.ReqDefControl.resources
+e:\Repos\cdido0923\AReqNTrace\obj\Debug\AReqNTrace.Ctnl.RFPReqDefControl.resources
+e:\Repos\cdido0923\AReqNTrace\obj\Debug\AReqNTrace.ReqNTraceMainForm.resources
+e:\Repos\cdido0923\AReqNTrace\obj\Debug\AReqNTrace.Properties.Resources.resources
+e:\Repos\cdido0923\AReqNTrace\obj\Debug\AReqNTrace.csproj.GenerateResource.Cache
+e:\Repos\cdido0923\AReqNTrace\obj\Debug\AReqNTrace.exe
+e:\Repos\cdido0923\AReqNTrace\obj\Debug\AReqNTrace.pdb

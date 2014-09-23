@@ -1,0 +1,14 @@
+e:\Repos\cdido0923\ATestMgr\bin\Debug\ATestMgr.exe.config
+e:\Repos\cdido0923\ATestMgr\bin\Debug\ATestMgr.exe
+e:\Repos\cdido0923\ATestMgr\bin\Debug\ATestMgr.pdb
+e:\Repos\cdido0923\ATestMgr\bin\Debug\AUIDsgn.exe
+e:\Repos\cdido0923\ATestMgr\bin\Debug\AUIDsgn.pdb
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.csprojResolveAssemblyReference.cache
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.Ctnl.TestCaseControl.resources
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.Ctnl.TestCasePlanControl.resources
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.Ctnl.TestResultControl.resources
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.TestMgrMainForm.resources
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.Properties.Resources.resources
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.csproj.GenerateResource.Cache
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.exe
+e:\Repos\cdido0923\ATestMgr\obj\Debug\ATestMgr.pdb

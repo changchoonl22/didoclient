@@ -1,0 +1,11 @@
+e:\Repos\cdido0923\ACompDsgn\bin\Debug\ACompDsgn.exe.config
+e:\Repos\cdido0923\ACompDsgn\bin\Debug\ACompDsgn.exe
+e:\Repos\cdido0923\ACompDsgn\bin\Debug\ACompDsgn.pdb
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.Ctnl.CompItemControl.resources
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.Ctnl.CompListControl.resources
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.Ctnl.UdaClusteringControl.resources
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.ACompDsgnMainForm.resources
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.Properties.Resources.resources
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.csproj.GenerateResource.Cache
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.exe
+e:\Repos\cdido0923\ACompDsgn\obj\Debug\ACompDsgn.pdb

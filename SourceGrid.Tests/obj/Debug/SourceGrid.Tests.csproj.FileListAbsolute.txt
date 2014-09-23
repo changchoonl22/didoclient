@@ -1,0 +1,10 @@
+E:\cdido0923\SourceGrid.Tests\bin\Debug\app.config
+E:\cdido0923\SourceGrid.Tests\bin\Debug\SourceGrid.Tests.dll.config
+E:\cdido0923\SourceGrid.Tests\bin\Debug\SourceGrid.Tests.dll
+E:\cdido0923\SourceGrid.Tests\bin\Debug\SourceGrid.Tests.pdb
+E:\cdido0923\SourceGrid.Tests\bin\Debug\nunit.framework.dll
+E:\cdido0923\SourceGrid.Tests\bin\Debug\SourceGrid.dll
+E:\cdido0923\SourceGrid.Tests\bin\Debug\SourceGrid.pdb
+E:\cdido0923\SourceGrid.Tests\obj\Debug\SourceGrid.Tests.csprojResolveAssemblyReference.cache
+E:\cdido0923\SourceGrid.Tests\obj\Debug\SourceGrid.Tests.dll
+E:\cdido0923\SourceGrid.Tests\obj\Debug\SourceGrid.Tests.pdb

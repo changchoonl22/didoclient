@@ -1,0 +1,10 @@
+E:\clib\ObjectListViewDemo\ListViewPrinter\bin\Debug\ListViewPrinter.dll
+E:\clib\ObjectListViewDemo\ListViewPrinter\bin\Debug\ListViewPrinter.pdb
+E:\clib\ObjectListViewDemo\ListViewPrinter\bin\Debug\ObjectListView.dll
+E:\clib\ObjectListViewDemo\ListViewPrinter\bin\Debug\ObjectListView.pdb
+E:\clib\ObjectListViewDemo\ListViewPrinter\bin\Debug\ObjectListView.xml
+E:\clib\ObjectListViewDemo\ListViewPrinter\obj\Debug\ListViewPrinter2012.csprojResolveAssemblyReference.cache
+E:\clib\ObjectListViewDemo\ListViewPrinter\obj\Debug\BrightIdeasSoftware.BrushForm.resources
+E:\clib\ObjectListViewDemo\ListViewPrinter\obj\Debug\ListViewPrinter2012.csproj.GenerateResource.Cache
+E:\clib\ObjectListViewDemo\ListViewPrinter\obj\Debug\ListViewPrinter.dll
+E:\clib\ObjectListViewDemo\ListViewPrinter\obj\Debug\ListViewPrinter.pdb

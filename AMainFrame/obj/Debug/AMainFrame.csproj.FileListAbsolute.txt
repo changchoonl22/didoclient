@@ -1,0 +1,17 @@
+e:\Repos\cdido0923\AMainFrame\bin\Debug\AMainFrame.exe.config
+e:\Repos\cdido0923\AMainFrame\bin\Debug\AMainFrame.exe
+e:\Repos\cdido0923\AMainFrame\bin\Debug\AMainFrame.pdb
+e:\Repos\cdido0923\AMainFrame\obj\Debug\AMainFrame.csprojResolveAssemblyReference.cache
+e:\Repos\cdido0923\AMainFrame\obj\Debug\AMainFrame.Form1.resources
+e:\Repos\cdido0923\AMainFrame\obj\Debug\AMainFrame.Properties.Resources.resources
+e:\Repos\cdido0923\AMainFrame\obj\Debug\AMainFrame.csproj.GenerateResource.Cache
+e:\Repos\cdido0923\AMainFrame\obj\Debug\AMainFrame.exe
+e:\Repos\cdido0923\AMainFrame\obj\Debug\AMainFrame.pdb
+E:\cdido0923\AMainFrame\bin\Debug\AMainFrame.exe.config
+E:\cdido0923\AMainFrame\bin\Debug\AMainFrame.exe
+E:\cdido0923\AMainFrame\bin\Debug\AMainFrame.pdb
+E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.Form1.resources
+E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.Properties.Resources.resources
+E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.csproj.GenerateResource.Cache
+E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.exe
+E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.pdb

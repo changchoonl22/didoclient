@@ -1,0 +1,15 @@
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.PingGrid.Backends.DSet.dll
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.PingGrid.Backends.DSet.pdb
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.dll
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.pdb
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.xml
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\obj\x86\Debug\SourceGrid.PingGrid.Backends.DSet.csprojResolveAssemblyReference.cache
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\obj\x86\Debug\SourceGrid.PingGrid.Backends.DSet.dll
+E:\clib\SourceGrid_4_40_src\SourceGrid_4_40_src\SourceGrid.PingGrid.Backends.DSet\obj\x86\Debug\SourceGrid.PingGrid.Backends.DSet.pdb
+E:\cdido0923\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.PingGrid.Backends.DSet.dll
+E:\cdido0923\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.PingGrid.Backends.DSet.pdb
+E:\cdido0923\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.dll
+E:\cdido0923\SourceGrid.PingGrid.Backends.DSet\bin\Debug\SourceGrid.pdb
+E:\cdido0923\SourceGrid.PingGrid.Backends.DSet\obj\x86\Debug\SourceGrid.PingGrid.Backends.DSet.csprojResolveAssemblyReference.cache
+E:\cdido0923\SourceGrid.PingGrid.Backends.DSet\obj\x86\Debug\SourceGrid.PingGrid.Backends.DSet.dll
+E:\cdido0923\SourceGrid.PingGrid.Backends.DSet\obj\x86\Debug\SourceGrid.PingGrid.Backends.DSet.pdb
