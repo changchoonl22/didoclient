@@ -1,0 +1,17 @@
+e:\Repos\didoclient\didoClient\bin\Debug\didoClient.exe.config
+e:\Repos\didoclient\didoClient\bin\Debug\didoClient.exe
+e:\Repos\didoclient\didoClient\bin\Debug\didoClient.pdb
+e:\Repos\didoclient\didoClient\obj\Debug\didoClient.csprojResolveAssemblyReference.cache
+e:\Repos\didoclient\didoClient\obj\Debug\didoClient.Properties.Resources.resources
+e:\Repos\didoclient\didoClient\obj\Debug\didoClient.csproj.GenerateResource.Cache
+e:\Repos\didoclient\didoClient\obj\Debug\didoClient.exe
+e:\Repos\didoclient\didoClient\obj\Debug\didoClient.pdb
+e:\Repos\didoclient\didoClient\bin\Debug\SourceGrid.dll
+e:\Repos\didoclient\didoClient\bin\Debug\SourceGrid.pdb
+e:\Repos\didoclient\didoClient\bin\Debug\SourceGrid.xml
+e:\Repos\didoclient\didoClient\bin\Debug\log4net.dll
+e:\Repos\didoclient\didoClient\bin\Debug\Newtonsoft.Json.dll
+e:\Repos\didoclient\didoClient\bin\Debug\log4net.xml
+e:\Repos\didoclient\didoClient\bin\Debug\Newtonsoft.Json.pdb
+e:\Repos\didoclient\didoClient\bin\Debug\Newtonsoft.Json.xml
+E:\Repos\didoclient\didoClient\obj\Debug\didoClient.TermNCodeMainForm.resources

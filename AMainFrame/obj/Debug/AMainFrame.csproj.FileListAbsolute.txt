@@ -15,3 +15,6 @@ E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.Properties.Resources.resources
 E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.csproj.GenerateResource.Cache
 E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.exe
 E:\cdido0923\AMainFrame\obj\Debug\AMainFrame.pdb
+E:\Repos\didoclient\AMainFrame\bin\Debug\AMainFrame.exe.config
+E:\Repos\didoclient\AMainFrame\obj\Debug\AMainFrame.exe
+E:\Repos\didoclient\AMainFrame\obj\Debug\AMainFrame.pdb

@@ -37,8 +37,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGrid.PingGrid.Backend
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGrid.PingGrid.Backend.NHibernate", "SourceGrid.PingGrid.Backend.NHibernate\SourceGrid.PingGrid.Backend.NHibernate.csproj", "{257E9149-DA1D-4770-96FF-CB64B045044C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "didoClient", "..\Repos\didoclient\didoClient\didoClient.csproj", "{C081629B-E269-4F1B-8002-64C02C242A0F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectListView2012", "ObjectListView\ObjectListView2012.csproj", "{18FEDA0C-D147-4286-B39A-01204808106A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectListViewDemo2012", "Demo\ObjectListViewDemo2012.csproj", "{C5332EAB-17B3-48B9-948E-33934B341AB0}"
@@ -50,6 +48,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkleLibrary2012", "SparkleLibrary\SparkleLibrary2012.csproj", "{D63F9786-B608-4085-AF08-D909448B0426}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests2012", "Tests\Tests2012.csproj", "{8BB7445D-3428-40CC-AE38-14F6BC6C1BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "didoClient", "didoClient\didoClient.csproj", "{C081629B-E269-4F1B-8002-64C02C242A0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,16 +237,6 @@ Global
 		{257E9149-DA1D-4770-96FF-CB64B045044C}.Release|Mixed Platforms.Build.0 = Release|x86
 		{257E9149-DA1D-4770-96FF-CB64B045044C}.Release|x86.ActiveCfg = Release|x86
 		{257E9149-DA1D-4770-96FF-CB64B045044C}.Release|x86.Build.0 = Release|x86
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|x86.ActiveCfg = Release|Any CPU
 		{18FEDA0C-D147-4286-B39A-01204808106A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{18FEDA0C-D147-4286-B39A-01204808106A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18FEDA0C-D147-4286-B39A-01204808106A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -307,6 +297,16 @@ Global
 		{8BB7445D-3428-40CC-AE38-14F6BC6C1BF9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{8BB7445D-3428-40CC-AE38-14F6BC6C1BF9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{8BB7445D-3428-40CC-AE38-14F6BC6C1BF9}.Release|x86.ActiveCfg = Release|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C081629B-E269-4F1B-8002-64C02C242A0F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
