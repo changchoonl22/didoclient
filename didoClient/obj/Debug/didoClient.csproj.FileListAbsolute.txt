@@ -15,3 +15,6 @@ e:\Repos\didoclient\didoClient\bin\Debug\log4net.xml
 e:\Repos\didoclient\didoClient\bin\Debug\Newtonsoft.Json.pdb
 e:\Repos\didoclient\didoClient\bin\Debug\Newtonsoft.Json.xml
 E:\Repos\didoclient\didoClient\obj\Debug\didoClient.TermNCodeMainForm.resources
+E:\Repos\didoclient\didoClient\bin\Debug\ObjectListView.dll
+E:\Repos\didoclient\didoClient\bin\Debug\ObjectListView.pdb
+E:\Repos\didoclient\didoClient\bin\Debug\ObjectListView.xml

@@ -7,3 +7,12 @@ E:\clib\ObjectListViewDemo\ObjectListView\obj\Debug\BrightIdeasSoftware.ColumnSe
 E:\clib\ObjectListViewDemo\ObjectListView\obj\Debug\ObjectListView2012.csproj.GenerateResource.Cache
 E:\clib\ObjectListViewDemo\ObjectListView\obj\Debug\ObjectListView.dll
 E:\clib\ObjectListViewDemo\ObjectListView\obj\Debug\ObjectListView.pdb
+E:\Repos\didoclient\ObjectListView\bin\Debug\ObjectListView.XML
+E:\Repos\didoclient\ObjectListView\bin\Debug\ObjectListView.dll
+E:\Repos\didoclient\ObjectListView\bin\Debug\ObjectListView.pdb
+E:\Repos\didoclient\ObjectListView\obj\Debug\ObjectListView2012.csprojResolveAssemblyReference.cache
+E:\Repos\didoclient\ObjectListView\obj\Debug\BrightIdeasSoftware.Properties.Resources.resources
+E:\Repos\didoclient\ObjectListView\obj\Debug\BrightIdeasSoftware.ColumnSelectionForm.resources
+E:\Repos\didoclient\ObjectListView\obj\Debug\ObjectListView2012.csproj.GenerateResource.Cache
+E:\Repos\didoclient\ObjectListView\obj\Debug\ObjectListView.dll
+E:\Repos\didoclient\ObjectListView\obj\Debug\ObjectListView.pdb

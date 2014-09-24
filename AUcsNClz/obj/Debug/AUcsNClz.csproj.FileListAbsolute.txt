@@ -25,3 +25,4 @@ E:\cdido0923\AUcsNClz\obj\Debug\AUcsNClz.Ctnl.UcsListControl.resources
 E:\cdido0923\AUcsNClz\obj\Debug\AUcsNClz.Frm.UcsNClzMainForm.resources
 E:\cdido0923\AUcsNClz\obj\Debug\AUcsNClz.Properties.Resources.resources
 E:\cdido0923\AUcsNClz\obj\Debug\AUcsNClz.csproj.GenerateResource.Cache
+E:\Repos\didoclient\AUcsNClz\bin\Debug\AUcsNClz.exe.config
